@@ -1,4 +1,4 @@
 NQueens
 =======
 
-NQueens solver algorithm. It finds empty spaces for all queens with out any of the Queens intersecting Diagonally, Horizontally, or Verticall.
+A NQueens solver algorithm. This program finds empty spaces for a given number of queens. The queens do not intersect with other queens diagonally, horizontally, nor verticaly.
